@@ -1,0 +1,83 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File
+       "..\p1_2024_434d_nastase_maria-magdalena_sers_n17_pspice\schematics\proiect_cef.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\nasta\OneDrive - Universitatea Politehnica Bucuresti\Desktop\P1_V2_org\allegro\pcb_proiect_bun.brd")
+    ("Allegro Netlist Output Board File"
+       "C:\Users\nasta\OneDrive - Universitatea Politehnica Bucuresti\Desktop\P1_V2_org\allegro\pcb_proiect_bun.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (NoModify)
+    (File ".\proiect_cef.dsn"
+      (Type "Schematic Design"))
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\Users\nasta\OneDrive - Universitatea Politehnica Bucuresti\Desktop\P1_2024_434D_Nastase_Maria-Magdalena_SERS_N17_Pspice\Bill_of_Materials\BOM_ORCAD.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\Users\nasta\OneDrive - Universitatea Politehnica Bucuresti\Desktop\P1_2024_434D_Nastase_Maria-Magdalena_SERS_N17_Pspice\Bill_of_Materials\BOM.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\proiect_cef.dsn")
+      (Path "Design Resources" ".\proiect_cef.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\proiect_cef.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 239"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1349 52 330")
+        (Scroll "-212 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\NASTA\ONEDRIVE - UNIVERSITATEA POLITEHNICA BUCURESTI\DESKTOP\PROIECTE_FACULTATE\PROIECT_CEF_AN3\P1_2024_434D_NASTASE_MARIA-MAGDALENA_SERS_N17_PSPICE\SCHEMATICS\PROIECT_CEF.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "nasta"))

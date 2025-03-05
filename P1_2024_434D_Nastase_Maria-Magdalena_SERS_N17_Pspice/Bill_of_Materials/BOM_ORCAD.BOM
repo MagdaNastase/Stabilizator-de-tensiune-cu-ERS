@@ -1,0 +1,35 @@
+Nãstase Maria-Magdalena  Revised: Saturday, December 14, 2024
+Proiect CEF1          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 15,2024      15:51:59	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	D2,D10	1N4148
+2	1	D16	BZX84C5V1
+3	2	D17,D18	3V,LED,LED
+4	2	J1,J2	CON2
+5	6	Q1,Q2,Q3,Q5,Q6,Q7	BC846B
+6	1	Q4	MJD31C
+7	2	Q8,Q9	BC856B
+8	7	R2,R22,R31,R32,R33,R34,R35	200
+9	2	R3,R13	51
+10	1	R5	4.7k
+11	3	R6,R9,R11	2k
+12	1	R10	65
+13	1	R15	10k
+14	1	R25	1.2
+15	1	R26	3.2k
+16	4	R27,R28,R29,R30	500
+17	5	R37,R38,R39,R40,R48	150
+18	1	R41	80
+19	4	R42,R44,R45,R46	510
+20	1	R47	100
+21	2	R49,R50	220

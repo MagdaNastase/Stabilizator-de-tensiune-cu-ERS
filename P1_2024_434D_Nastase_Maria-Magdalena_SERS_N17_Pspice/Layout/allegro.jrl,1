@@ -1,0 +1,70 @@
+\t (00:00:23) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:23)     Journal start - Tue Jan 07 01:10:06 2025
+\t (00:00:23)         Host=MAGDA User=nasta Pid=22836 CPUs=8
+\t (00:00:23) CmdLine= D:\tools\bin\allegro.exe
+\t (00:00:23) 
+\d (00:00:23) Design opened: C:/Users/nasta/OneDrive - Universitatea Politehnica Bucuresti/Desktop/PROIECTE_FACULTATE/PROIECT_CEF_AN3/P1_2024_434D_Nastase_Maria-Magdalena_SERS_N17_Pspice/Layout/pcb_proiect.brd
+\i (00:00:24) generaledit 
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 14.9349 21.1299
+\t (00:00:38) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:00:38) trapsize 2210
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 37.9612 22.2348
+\t (00:01:05) Grids are drawn 0.6400, 0.6400 apart for enhanced viewability.
+\i (00:01:05) trapsize 4420
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 46.0050 36.3777
+\t (00:01:06) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:01:06) trapsize 2210
+\i (00:03:38) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (00:03:52) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (00:04:01) zoom out 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom out 23.1996 19.8925
+\t (00:04:01) Grids are drawn 0.6400, 0.6400 apart for enhanced viewability.
+\i (00:04:01) trapsize 4420
+\i (00:04:02) zoom in 1 
+\i (00:04:02) setwindow pcb
+\i (00:04:02) zoom in 22.6693 17.9478
+\t (00:04:02) Grids are drawn 0.3200, 0.3200 apart for enhanced viewability.
+\i (00:04:02) trapsize 2210
+\i (00:05:49) xname_flush 
+\i (00:05:53) xdehilite 
+\i (00:05:53) xname_flush 
+\i (00:05:53) done 
+\i (00:05:53) generaledit 
+\i (00:05:55) xname_flush 
+\i (00:05:56) xdehilite 
+\i (00:05:56) xname_flush 
+\i (00:05:56) done 
+\i (00:05:56) xhilite 
+\i (00:05:56) xname_flush 
+\i (00:05:56) done 
+\i (00:05:56) generaledit 
+\i (00:05:56) xdehilite 
+\i (00:05:56) xname_flush 
+\i (00:05:56) done 
+\i (00:05:57) generaledit 
+\i (00:05:57) xname_flush 
+\i (00:06:02) xdehilite 
+\i (00:06:02) xname_flush 
+\i (00:06:02) done 
+\i (00:06:02) generaledit 
+\i (00:11:39) 3d_viewer 
+\i (00:11:40) setwindow pcb3D
+\i (00:11:40) trapsize 2210
+\i (00:11:40) setwindow pcb
+\i (00:11:40) generaledit 
+\i (00:11:52) setwindow pcb3D
+\i (00:11:52) view3d solid 
+\i (00:11:55) view3d transparent 
+\i (00:11:58) view3d wireframe 
+\i (00:12:07) setwindow pcb
+\i (00:12:07) exit 
+\e (00:12:07) Do you want to save the changes you made to pcb_proiect.brd?
+\i (00:12:08) fillin no 
+\t (00:12:08)     Journal end - Tue Jan 07 01:21:51 2025
