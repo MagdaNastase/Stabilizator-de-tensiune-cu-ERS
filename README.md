@@ -1,2 +1,1 @@
-# Stabilizator-de-tensiune-cu-ERS
-Am realizat un stabilizator de tensiune cu reglaj serie, proiectat pentru a menține o tensiune stabilă și protejat împotriva suprasarcinilor. Proiectul a inclus simulări, proiectare PCB și testare a funcționalității
+I designed and implemented a voltage stabilizer with a series regulator (ERS), ensuring a stable output voltage and overload protection. The project included simulations, PCB design, and functionality testing.
